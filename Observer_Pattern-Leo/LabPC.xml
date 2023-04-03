@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LAB>
+  <!-- Lista de ID de las PCs en el laboratorio en tiempo real -->
+  <PCid>0001</PCid>
+  <PCid>0002</PCid>
+  <PCid>0001</PCid>
+  <PCid>0001</PCid>
+  <PCid>0001</PCid>
+  <PCid>0001</PCid>
+  <PCid>0001</PCid>
+  <PCid>0001</PCid>
+  <PCid>0001</PCid>
+  <PCid>1</PCid>
+  <PCid>1</PCid>
+  <PCid>0001</PCid>
+  <PCid>0001</PCid>
+  <PCid>0001</PCid>
+  <PCid>0001</PCid>
+  <PCid>0001</PCid>
+</LAB>
